@@ -22,6 +22,7 @@ role: Musicus
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Socials:
+  - url: ''
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
