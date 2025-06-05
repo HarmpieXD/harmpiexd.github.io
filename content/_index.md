@@ -22,10 +22,10 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Nieuwste werk, "Ondeggiando l'Amore" Serenade for Strings, Harp and Horn
+        - text: Nieuwste werk, 'Ondeggiando l'Amore' Serenade for Strings, Harp and Horn
           icon: brands/youtube
           url: https://www.youtube.com/watch?v=PcXNiahdLjo
-        - text: Grootste project: "Harmony's Journey" Symphony for Strings No.1
+        - text: Grootste project: 'Harmony's Journey' Symphony for Strings No.1
           icon: brands/youtube
           url: https://www.youtube.com/watch?v=7UZYJmNIjqU
 ---
